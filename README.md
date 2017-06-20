@@ -22,7 +22,7 @@ It is an open source build automation system that builds upon the concepts of Ap
 
 #### <i class="icon-briefcase"></i> **API Resource**
 
- * **Fuel API : **  fetch latest fuel prices for major Indian cities
- * **Chennai API : **  API provides the interesting location images, bus routes, train routes.
+ * **Fuel API :**  fetch latest fuel prices for major Indian cities
+ * **Chennai API :**  API provides the interesting location images, bus routes, train routes.
 
 ---------
